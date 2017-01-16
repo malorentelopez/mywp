@@ -2,22 +2,22 @@
 /**
  * Use the PHP for https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate
  *
- * @package   Plugin_Name
- * @author    Your Name <email@example.com>
+ * @package   MyWP
+ * @author    Miguel Ángel Lorente López
  * @license   GPL-2.0+
  * @link      http://example.com
- * @copyright 2014 Your Name or Company Name
+ * @copyright 2017 10Forward B.V.
  *
  * @wordpress-plugin
- * Plugin Name:       @TODO
+ * Plugin Name:       My WP Plugin
  * Plugin URI:        @TODO
  * Description:       @TODO
  * Version:           1.0.0
- * Author:            @TODO
+ * Author:            Miguel Ángel Lorente López
  * Author URI:        @TODO
  * Text Domain:       plugin-name-locale
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/<owner>/<repo>
+ * GitHub Plugin URI: https://github.com/malorentelopez/mywp.git
  */
